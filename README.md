@@ -1,6 +1,7 @@
 # xyzw_helper
 咸鱼之王辅助小助手（auto script for game of XianYuZhiWang）    
 > 刚开始搞，欢迎感兴趣的大佬一起来开发~
+> 对于电脑上的安卓模拟器，推荐使用“**逍遥模拟器**”！
 
 Bilibili: https://space.bilibili.com/37064895    
 app体验：https://xfxuezhang.cn/web/xyzw/release
