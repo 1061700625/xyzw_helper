@@ -4,7 +4,7 @@
 > 对于电脑上的安卓模拟器，推荐使用“**逍遥模拟器**”！
 
 Bilibili: https://space.bilibili.com/37064895    
-app体验：[https://xfxuezhang.lanzouy.com/b09v59yji](https://xfxuezhang.lanzouy.com/b09v59yji 密码:9u22)
+app体验：https://xfxuezhang.lanzouy.com/b09v59yji 密码:9u22
 
 ![image](https://github.com/1061700625/xyzw_helper/assets/31002981/9e8064ef-ffe6-4960-903d-0e786715cf86)
 
