@@ -17,6 +17,11 @@ Bilibili: https://space.bilibili.com/37064895
 > [✓【资源】备用下载(密码:9u22)](https://xfxuezhang.lanzouy.com/b09v59yji)    
 
 
+拥有了小助手，你就相当于同时拥有了：自动答题器、自动兑换码、日常任务脚本、罐子号、工具箱与攻略、等等等等，并且新功能还在不断开发中！真正实现多合一！    
+
+网页版脚本、GG修改器、CE修改器型脚本均有【封号】风险，建议能不用就别用。小助手这种模拟点击类的脚本100%安全，因为他只是模拟了用户的点击而已，并没有篡改任何游戏数据。
+ 
+
 <p align="center">
   <img src="https://github.com/1061700625/xyzw_helper/assets/31002981/9e8064ef-ffe6-4960-903d-0e786715cf86" hspace="20"/><br />
   <img src="https://github.com/1061700625/xyzw_helper/assets/31002981/da69dad4-eddb-4349-b902-0edf728e11e4" hspace="20"/><br />
