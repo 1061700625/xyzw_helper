@@ -2,9 +2,13 @@
 咸鱼之王辅助小助手（auto script for game of XianYuZhiWang）    
 > 刚开始搞，欢迎感兴趣的大佬一起来开发~
 > 对于电脑上的安卓模拟器，推荐使用“**夜神模拟器**”！
+> 需要修改分辨率1280x720,320dpi。如果直接在真机上运行，由于分辨率差异可能会导致问题。如果改不了，可以装**光速虚拟机**。如果有电脑，就装**夜神模拟器**。
+> 更多问题，请务必看一眼《咸鱼小助手常见问题汇总解答》：https://docs.qq.com/doc/DTmdBSnZlVUd3QmJn
+
+>下载(密码:9u22)：https://xfxuezhang.lanzouy.com/b09v59yji
+
 
 Bilibili: https://space.bilibili.com/37064895  
-咸鱼小助手常见问题汇总解答：https://docs.qq.com/doc/DTmdBSnZlVUd3QmJn
 > ✓交流群：722072237    
 > [✓【教程】游戏扫码登录器极简使用教程(以咸鱼之王为例)](https://b23.tv/ewcl7h9)     
 > [✓【教程】在模拟器中运行咸鱼小助手和跑任务演示](https://b23.tv/126lm1m)     
